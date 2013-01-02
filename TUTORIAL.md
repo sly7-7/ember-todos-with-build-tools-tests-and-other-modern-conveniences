@@ -1,6 +1,6 @@
 # Notes
 ## Installing node
-## Initialiing the project
+## Initializing the project
 ```shell
 npm init
 ```
